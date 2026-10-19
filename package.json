@@ -1,0 +1,25 @@
+{
+  "name": "accessibility-scanner-honest-reporter",
+  "version": "1.0.0",
+  "description": "Automated WCAG 2.2 AA accessibility scanner and honest audit reporter with zero synthetic passes",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --experimental-strip-types --test tests/a11y.test.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "accessibility",
+    "wcag",
+    "a11y",
+    "audit",
+    "compliance",
+    "honest-reporting"
+  ],
+  "author": "Felipe Madson",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "typescript": "5.7.2"
+  }
+}
