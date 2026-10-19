@@ -11,4 +11,4 @@ Scanner estático de acessibilidade WCAG 2.2 AA com auditoria honesta, sem notas
 
 ## Licença
 
-MIT © [Felipe Madson](https://github.com/FelipeMadson)
+MIT © [Felipe Madison](https://github.com/FelipeMadson)
